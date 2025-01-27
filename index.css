@@ -1,0 +1,29 @@
+body {
+    color:white;
+    background-color: rgb(43, 61, 226);
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+img{
+    width: 306px;
+    height: 306px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+
+
+.center{
+    text-align: center;
+}
+nav a:hover{
+    color: black
+}
